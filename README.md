@@ -39,6 +39,7 @@ Loop until finish
 ---
 ## Architecture Diagram
 
+<img width="1024" height="1536" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/4aba1864-6ec6-4367-bd75-cebe8603cb46" />
 
 
 ---
